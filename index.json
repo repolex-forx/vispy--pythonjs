@@ -1,0 +1,11 @@
+{
+  "org": "vispy",
+  "repo": "pythonjs",
+  "versions": [
+    {
+      "commit": "e8f635732056e47edd2e14082698be66160aa74b",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:38:48.813602+00:00"
+    }
+  ]
+}
