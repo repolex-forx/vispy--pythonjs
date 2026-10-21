@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1.0",
+  "org": "vispy",
+  "repo": "pythonjs",
+  "versions": [
+    {
+      "commit": "e8f635732056e47edd2e14082698be66160aa74b",
+      "parsed_at": "2026-10-21T19:37:05.559272+00:00",
+      "filetree": "filetree/e8f635732056e47edd2e14082698be66160aa74b.nq.gz",
+      "blobs": [
+        "blob/3cef250012267d138a89868088bf3aa6f191ae07.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
